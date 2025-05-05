@@ -3,7 +3,7 @@
   <a href="https://adorable-maamoul-a5740e.netlify.app/" target="_blank">Mosh  App</Portfolio>
 </h2>
 <div align="center">
-  <img alt="Demo" src="portfolio.jpeg" />
+  <img alt="Demo" src="reactportfolio.jpeg" />
 </div>
 
 <br/>
